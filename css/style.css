@@ -1,0 +1,47 @@
+body{
+    background:rgb(122, 88, 122);
+}
+h1{
+    text-align:center;
+    margin-left: 30%;
+    color: rgb(255, 255, 255);
+    border:2px dashed rgb(24, 255, 3);
+    width:40%;
+}
+h2{
+    margin-top:10px;
+    margin-left:30%;
+    text-align:center;
+    color:rgb(255, 255, 255);
+    border:2px dashed aqua;
+    width: 40%;
+    font-weight: bold; font-style: italic;
+}
+#ed{
+    margin-left:30%;
+    margin-top: 20px;
+    color:rgb(0, 204, 255);
+    border:2px dashed rgb(226, 16, 16);
+    width: 40%;
+    font-weight: bold; font-style: italic;
+}
+#ex{
+    margin-left:30%;
+    margin-top: 20px;
+    color:orange;
+    border:2px dashed rgb(46, 32, 238);
+    width: 40%;
+    font-weight: bold; font-style: italic;
+}
+#ga{
+    text-align: left;
+    margin-left:17%;
+    margin-top: 20px;
+    color:rgb(10, 248, 62);
+    border:2px dashed rgb(238, 39, 155);
+    width: 60%;
+    font-weight: bold; font-style: italic;
+}
+#bm{
+    border:2px dashed rgb(255, 230, 0);
+}
