@@ -42,8 +42,8 @@ Students who enroll in the full-time, seven week curriculum which includes the C
 ------------------
 
 ###### Tutor | September 2019 - Present
-* Assisted college students in their understanding of web development concepts using HTML, CSS, vanilla JavaScript.
-* Helped students through debugging their code to provide greater understanding with applications they are working on.
+* Assisted college students in their understanding of web development concepts using HTML, CSS, and vanilla JavaScript.
+* Helped students debug their code to provide greater knowledge of their codebase and reasons for error.
 * Explained complex computer science algorithm concepts.
 * Reviewed student projects and provided feedback where needed.
 
