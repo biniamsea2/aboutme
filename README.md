@@ -32,7 +32,7 @@ Students who enroll in the full-time, seven week curriculum which includes the C
 
 * The curriculum combined theoretical analysis and practical experience through applied coursework, undergraduate research, and community-based learning. This major emphasized on core capacities in critical/creative thinking, interdisciplinary research, and collaboration.
 * Bachelor of Arts in Law, Economics, & Public Policy
-* African Student Association
+** African Student Association
 * Black Student Union
 * Black Law Students Association
 * Debate Society
