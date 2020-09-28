@@ -32,11 +32,11 @@ Students who enroll in the full-time, seven week curriculum which includes the C
     * This major was designed for students who wanted to explore how the legal institutions shape policy decisions and the political/economic contexts that influence the creation of the law. It provided a grounding in economics and political science as I learned to analyze legal and policy problems, alternatives, and consequences. 
     * The curriculum combined theoretical analysis and practical experience through applied coursework, undergraduate research, and community-based learning. This major emphasized on core capacities in critical/creative thinking, interdisciplinary research, and collaboration.
     <h4> Clubs: </h4>
-    * African Student Association
-    * Black Student Union
-    * Black Law Students Association
-    * Debate Society
-    * Law Society  
+* African Student Association
+* Black Student Union
+* Black Law Students Association
+* Debate Society
+* Law Society  
 
 <h4 align="center"> Experience </h4>
 ------------------
