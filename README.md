@@ -10,10 +10,10 @@
 
 ###### Proficient
 
-* C#, .NET, SQL Server, Azure, Azure DevOps, Bootstrap, HTML(5), CSS, Unit Testing, Git, Test Driven Development, RESTful APIs, AGILE/SCRUM
+* C#, .NET, SQL Server, Azure, Azure DevOps, Bootstrap, HTML(5), CSS, Unit Testing, Git, Test Driven Development, RESTful APIs, AGILE/SCRUM, Ubuntu, Github
 
 ###### Intermediate
-* JavaScript, Java, Azure Blob Storage, Heroku, PostgreSQL
+* JavaScript, Java, Azure Blob Storage, Heroku, PostgreSQL, Powershell, Xamarin
 
 <h4 align="center"> Education </h4>
 ------------------
