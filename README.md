@@ -73,7 +73,8 @@ Server database using Test Driven Development.
 PhysioReach is a mobile application made in Xamarin.Forms that is created to be a physical therapy assistant, helping the user through common physical therapy exercises. 
 The app uses the phone's accelerometer to track movement during each exercise, and creates a graph based on data collected during the exercise.
 <h4> Responsibilities: </h4>
-- Managed a team of five to successfully present our MVP and final project within the deadline.
+* Managed a team of five to successfully present our MVP and final project within the deadline.
 * Succesfully created the team's agreement plan/ communication plan. In order to maintain appropriate work load per developer.
 * Outlined the project's software requirements which include MVP, stretch goals, and user stories distributed to each developer. 
 * Created the team's google play account to upload our app to the google play store.
+------------------
