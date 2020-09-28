@@ -5,6 +5,7 @@
 <p align="center">
     github.com/biniamsea2   •   linkedin.com/in/biniam-tesfamariam/    
 </p>
+<h4 align="center"> Technical Skills </h4>
 ------------------
 
 ###### Proficient
