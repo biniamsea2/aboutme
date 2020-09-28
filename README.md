@@ -63,17 +63,16 @@ Students who enroll in the full-time, seven week curriculum which includes the C
 Brainless Vacay is an online platform that seeks to help our users get the best deals on travel packages. We
 work with our user’s budget to provide the best travel packages possible. With each travel package we provide
 the user with activities/ events, lodging options, and destinations.
-<h4> Responsibilities: </h4>
-* Successfully generated REST API in .NET to retrieve the vacation package from our Microsoft SQL
-Server database using Test Driven Development.  
-* Designed and developed the application's UI using Bootstrap in order to improve our users’ experience.  
-* Implemented meaningful documentation to better assist the team on updates.  
+<h4> Responsibilities: </h4>  
+* Successfully generated REST API in .NET to retrieve the vacation package from our Microsoft SQL Server database using Test Driven Development.
+* Designed and developed the application's UI using Bootstrap in order to improve our users’ experience.
+* Implemented meaningful documentation to better assist the team on updates.
 
 ###### PhysioReach | [https://github.com/fingerhearts/physio-reach-xamarin](https://github.com/fingerhearts/physio-reach-xamarin) | December 2019
 PhysioReach is a mobile application made in Xamarin.Forms that is created to be a physical therapy assistant, helping the user through common physical therapy exercises. 
 The app uses the phone's accelerometer to track movement during each exercise, and creates a graph based on data collected during the exercise.
-<h4> Responsibilities: </h4>
-* Managed a team of five to successfully present our MVP and final project within the deadline.  
-* Succesfully created the team's agreement plan/ communication plan. In order to maintain appropriate work load per developer.  
-* Outlined the project's software requirements which include MVP, stretch goals, and user stories distributed to each developer.   
-* Created the team's google play account to upload our app to the google play store.  
+<h4> Responsibilities: </h4>  
+* Managed a team of five to successfully present our MVP and final project within the deadline.
+* Succesfully created the team's agreement plan/ communication plan. In order to maintain appropriate work load per developer.
+* Outlined the project's software requirements which include MVP, stretch goals, and user stories distributed to each developer. 
+* Created the team's google play account to upload our app to the google play store.
