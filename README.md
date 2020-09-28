@@ -28,6 +28,9 @@ Students who enroll in the full-time, seven week curriculum which includes the C
 * During the Criminal Law class, students work collaboratively to develop skills to read and interpret legal text, synthesize rules and policy, and engage in effective legal analysis. By the end of the summer, students gain an appreciation for the nuances of legal study and understand how to apply the skills learned to their fall courses.
 
 ###### University of Washington | Seattle, WA | July 2017
+* This major was designed for students who wanted to explore how the legal institutions shape policy decisions and the political/economic contexts that influence the creation of the law. It provided a grounding in economics and political science as I learned to analyze legal and policy problems, alternatives, and consequences. 
+
+* The curriculum combined theoretical analysis and practical experience through applied coursework, undergraduate research, and community-based learning. This major emphasized on core capacities in critical/creative thinking, interdisciplinary research, and collaboration.
 * Bachelor of Arts in Law, Economics, & Public Policy
 * African Student Association
 * Black Student Union
@@ -60,7 +63,7 @@ Students who enroll in the full-time, seven week curriculum which includes the C
 Brainless Vacay is an online platform that seeks to help our users get the best deals on travel packages. We
 work with our user’s budget to provide the best travel packages possible. With each travel package we provide
 the user with activities/ events, lodging options, and destinations.
-<h4 align="center"> Responsibilities: </h4>
+<h4> Responsibilities: </h4>
 * Successfully generated REST API in .NET to retrieve the vacation package from our Microsoft SQL
 Server database using Test Driven Development.
 * Designed and developed the application's UI using Bootstrap in order to improve our users’ experience.
@@ -69,7 +72,7 @@ Server database using Test Driven Development.
 ###### PhysioReach | [https://github.com/fingerhearts/physio-reach-xamarin](https://github.com/fingerhearts/physio-reach-xamarin) | December 2019
 PhysioReach is a mobile application made in Xamarin.Forms that is created to be a physical therapy assistant, helping the user through common physical therapy exercises. 
 The app uses the phone's accelerometer to track movement during each exercise, and creates a graph based on data collected during the exercise.
-<h4 align="center"> Responsibilities: </h4>
+<h4> Responsibilities: </h4>
 * Managed a team of five to successfully present our MVP and final project within the deadline.
 * Succesfully created the team's agreement plan/ communication plan. In order to maintain appropriate work load per developer.
 * Outlined the project's software requirements which include MVP, stretch goals, and user stories distributed to each developer. 
