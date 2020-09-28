@@ -77,4 +77,3 @@ The app uses the phone's accelerometer to track movement during each exercise, a
 * Succesfully created the team's agreement plan/ communication plan. In order to maintain appropriate work load per developer.
 * Outlined the project's software requirements which include MVP, stretch goals, and user stories distributed to each developer. 
 * Created the team's google play account to upload our app to the google play store.
-------------------
